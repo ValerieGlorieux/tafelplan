@@ -1,2 +1,2 @@
 # tafelplan
-Vind jou plaats aan tafel
+Vind jouw plaats aan tafel
